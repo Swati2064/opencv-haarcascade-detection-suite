@@ -1,0 +1,1 @@
+# opencv-haarcascade-detection-suite
